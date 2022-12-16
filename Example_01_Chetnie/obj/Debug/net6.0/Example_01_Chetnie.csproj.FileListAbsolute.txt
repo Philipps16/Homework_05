@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\obj\Debug\net6.0\Example_01_Chetnie.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\obj\Debug\net6.0\Example_01_Chetnie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\obj\Debug\net6.0\Example_01_Chetnie.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\obj\Debug\net6.0\Example_01_Chetnie.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\obj\Debug\net6.0\Example_01_Chetnie.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\bin\Debug\net6.0\Example_01_Chetnie.exe
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\bin\Debug\net6.0\Example_01_Chetnie.deps.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\bin\Debug\net6.0\Example_01_Chetnie.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\bin\Debug\net6.0\Example_01_Chetnie.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\bin\Debug\net6.0\Example_01_Chetnie.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\obj\Debug\net6.0\Example_01_Chetnie.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\obj\Debug\net6.0\refint\Example_01_Chetnie.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\obj\Debug\net6.0\Example_01_Chetnie.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\obj\Debug\net6.0\Example_01_Chetnie.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_01_Chetnie\obj\Debug\net6.0\ref\Example_01_Chetnie.dll
