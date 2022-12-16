@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\bin\Debug\net6.0\Example_02_Summa_nechet.exe
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\bin\Debug\net6.0\Example_02_Summa_nechet.deps.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\bin\Debug\net6.0\Example_02_Summa_nechet.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\bin\Debug\net6.0\Example_02_Summa_nechet.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\bin\Debug\net6.0\Example_02_Summa_nechet.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\obj\Debug\net6.0\Example_02_Summa_nechet.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\obj\Debug\net6.0\Example_02_Summa_nechet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\obj\Debug\net6.0\Example_02_Summa_nechet.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\obj\Debug\net6.0\Example_02_Summa_nechet.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\obj\Debug\net6.0\Example_02_Summa_nechet.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\obj\Debug\net6.0\Example_02_Summa_nechet.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\obj\Debug\net6.0\refint\Example_02_Summa_nechet.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\obj\Debug\net6.0\Example_02_Summa_nechet.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\obj\Debug\net6.0\Example_02_Summa_nechet.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_02_Summa_nechet\obj\Debug\net6.0\ref\Example_02_Summa_nechet.dll
