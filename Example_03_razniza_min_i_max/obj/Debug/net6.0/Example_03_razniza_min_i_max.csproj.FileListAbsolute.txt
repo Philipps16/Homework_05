@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\bin\Debug\net6.0\Example_03_razniza_min_i_max.exe
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\bin\Debug\net6.0\Example_03_razniza_min_i_max.deps.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\bin\Debug\net6.0\Example_03_razniza_min_i_max.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\bin\Debug\net6.0\Example_03_razniza_min_i_max.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\bin\Debug\net6.0\Example_03_razniza_min_i_max.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\obj\Debug\net6.0\Example_03_razniza_min_i_max.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\obj\Debug\net6.0\Example_03_razniza_min_i_max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\obj\Debug\net6.0\Example_03_razniza_min_i_max.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\obj\Debug\net6.0\Example_03_razniza_min_i_max.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\obj\Debug\net6.0\Example_03_razniza_min_i_max.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\obj\Debug\net6.0\Example_03_razniza_min_i_max.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\obj\Debug\net6.0\refint\Example_03_razniza_min_i_max.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\obj\Debug\net6.0\Example_03_razniza_min_i_max.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\obj\Debug\net6.0\Example_03_razniza_min_i_max.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_05\Example_03_razniza_min_i_max\obj\Debug\net6.0\ref\Example_03_razniza_min_i_max.dll
